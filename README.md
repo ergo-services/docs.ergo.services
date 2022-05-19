@@ -17,5 +17,5 @@ We welcome both kinds of contributions from our users, and are always aiming to 
 
 * Understand that our documents are all released under a Creative Commons Attribution-ShareAlike 4.0 license [CC BY SA](http://creativecommons.org/licenses/by-sa/4.0/). This means that your contributions are being released to Ergo Framework community to use, share, remix, and distribute as they see fit, provided any distribution takes place under the same licensing.
 * Read through some of the documents we've already created. You'll notice that there is a consistent structure to most of them. By reading through some of our existing documentation, you will get a feeling for the overall structure and style.
-* Familiarize yourself with Sphinx and reStructuredText before starting.
+* Familiarize yourself with Ergo Framework before starting.
 * Make your contributions in the right place. We use branches for different translations, so make sure the branch name before making a fork.
