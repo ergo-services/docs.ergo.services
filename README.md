@@ -8,8 +8,8 @@ If you have found a mistake or a misprint in the documentation please report it 
 
 In general, there are two main types of contributions:
 
-* **General improvements** typo corrections, fixing broken refs or links, correcting inaccurate or out-of-date information, and offering better explanations through clearer writing and additional examples.
-* **New features or new pages** adding a page of documentation that we haven't yet covered, or documenting a new feature that has been added to Ergo Framework since the last release.
+* General improvements: typo corrections, fixing broken refs or links, correcting inaccurate or out-of-date information, and offering better explanations through clearer writing and additional examples.
+* New features or new pages: adding a page of documentation that we haven't yet covered, or documenting a new feature that has been added to Ergo Framework since the last release.
 
 We welcome both kinds of contributions from our users, and are always aiming to improve our documentation as much and as often as possible. To maintain a sense of consistency and quality over time, here are a few tips.
 
