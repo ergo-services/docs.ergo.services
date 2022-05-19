@@ -2,7 +2,7 @@
 
 This page offers a overview of best-practice suggestions for contributing documentation. We strongly recommend reviewing this page before contributing to the Ergo Framework documentation.
 
-If you have found a mistake or a mispring in the documentation please report it at https://github.com/ergo-services/docs/issues
+If you have found a mistake or a misprint in the documentation please report it at https://github.com/ergo-services/docs/issues
 
 ### Contribution guidelines
 
