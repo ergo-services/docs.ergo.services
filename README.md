@@ -1,4 +1,4 @@
-<h1><a href="https://ergo.services"><img src=".github/images/logo.svg" alt="Ergo Framework" width="159" height="49"></a></h1>
+<h1><a href="https://ergo.services"><img src=".github/logo.orange.svg" alt="Ergo Framework" width="271" height="49"></a></h1>
 
 [![Gitbook Documentation](https://img.shields.io/badge/GitBook-Documentation-f37f40?style=plastic&logo=gitbook&logoColor=white&style=flat)](https://docs.ergo.services)
 [![CC-BY-4.0 ](https://img.shields.io/badge/License-CC--BY--SA%20-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
